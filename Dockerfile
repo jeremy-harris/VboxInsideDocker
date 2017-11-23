@@ -1,4 +1,4 @@
-# VirtualBox 4.3.x service
+# VirtualBox 5.2.x service
 #
 # VERSION               0.0.1
 
